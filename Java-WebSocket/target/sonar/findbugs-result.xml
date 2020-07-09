@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.0.0" sequence="0" timestamp="1592551432000" analysisTimestamp="1592551446330" release="">
+  <Project>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/AbstractWebSocket.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/AbstractWebSocket$1.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/AbstractWrappedByteChannel.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/SSLSocketChannel.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/SSLSocketChannel2.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/SocketChannelIOHelper.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/WebSocket.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/WebSocketAdapter.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/WebSocketFactory.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/WebSocketImpl.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/WebSocketListener.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/WebSocketServerFactory.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/WrappedByteChannel.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/client/DnsResolver.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/client/WebSocketClient.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/client/WebSocketClient$1.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/client/WebSocketClient$WebsocketWriteThread.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/drafts/Draft.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/drafts/Draft_6455.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/drafts/Draft_6455$TranslatedPayloadMetaData.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/enums/CloseHandshakeType.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/enums/HandshakeState.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/enums/Opcode.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/enums/ReadyState.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/enums/Role.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/IncompleteException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/IncompleteHandshakeException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/InvalidDataException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/InvalidEncodingException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/InvalidFrameException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/InvalidHandshakeException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/LimitExceededException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/NotSendableException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/WebsocketNotConnectedException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/exceptions/WrappedIOException.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/extensions/CompressionExtension.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/extensions/DefaultExtension.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/extensions/ExtensionRequestData.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/extensions/IExtension.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/extensions/permessage_deflate/PerMessageDeflateExtension.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/BinaryFrame.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/CloseFrame.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/ContinuousFrame.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/ControlFrame.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/DataFrame.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/Framedata.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/FramedataImpl1.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/PingFrame.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/PongFrame.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/TextFrame.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/handshake/ClientHandshake.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/handshake/ClientHandshakeBuilder.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/handshake/HandshakeBuilder.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/handshake/HandshakeImpl1Client.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/handshake/HandshakeImpl1Server.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/handshake/Handshakedata.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/handshake/HandshakedataImpl1.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/handshake/ServerHandshake.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/handshake/ServerHandshakeBuilder.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/interfaces/ISSLChannel.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/protocols/IProtocol.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/protocols/Protocol.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/server/CustomSSLWebSocketServerFactory.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/server/DefaultSSLWebSocketServerFactory.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/server/DefaultWebSocketServerFactory.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/server/SSLParametersWebSocketServerFactory.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/server/WebSocketServer.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/server/WebSocketServer$WebSocketWorker.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/server/WebSocketServer$WebSocketWorker$1.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/util/Base64.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/util/Base64$OutputStream.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/util/ByteBufferUtils.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/util/Charsetfunctions.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/util/NamedThreadFactory.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/SSLSocketChannel$1.class</Jar>
+    <Jar>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes/org/java_websocket/framing/FramedataImpl1$1.class</Jar>
+    <AuxClasspathEntry>/home/hally/workspace/sonarqube/Java-WebSocket/target/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/hally/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/hally/workspace/sonarqube/Java-WebSocket/target/sonar/findbugs/annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/hally/workspace/sonarqube/Java-WebSocket/target/sonar/findbugs/jsr305.jar</AuxClasspathEntry>
+    <WrkDir>/home/hally/workspace/sonarqube/Java-WebSocket/target/sonar</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Fri, 19 Jun 2020 15:23:52 +0800" total_classes="76" referenced_classes="245" total_bugs="0" total_size="3948" num_packages="13" java_version="1.8.0_241" vm_version="25.241-b07" cpu_seconds="13.53" clock_seconds="2.98" peak_mbytes="862.45" alloc_mbytes="7141.50" gc_seconds="0.04">
+    <FileStats path="org/java_websocket/AbstractWebSocket.java" bugCount="0" size="113"/>
+    <FileStats path="org/java_websocket/AbstractWrappedByteChannel.java" bugCount="0" size="35"/>
+    <FileStats path="org/java_websocket/SSLSocketChannel.java" bugCount="0" size="206"/>
+    <FileStats path="org/java_websocket/SSLSocketChannel2.java" bugCount="0" size="237"/>
+    <FileStats path="org/java_websocket/SocketChannelIOHelper.java" bugCount="0" size="39"/>
+    <FileStats path="org/java_websocket/WebSocket.java" bugCount="0" size="26"/>
+    <FileStats path="org/java_websocket/WebSocketAdapter.java" bugCount="0" size="19"/>
+    <FileStats path="org/java_websocket/WebSocketFactory.java" bugCount="0" size="3"/>
+    <FileStats path="org/java_websocket/WebSocketImpl.java" bugCount="0" size="451"/>
+    <FileStats path="org/java_websocket/WebSocketListener.java" bugCount="0" size="17"/>
+    <FileStats path="org/java_websocket/WebSocketServerFactory.java" bugCount="0" size="5"/>
+    <FileStats path="org/java_websocket/WrappedByteChannel.java" bugCount="0" size="6"/>
+    <FileStats path="org/java_websocket/client/DnsResolver.java" bugCount="0" size="2"/>
+    <FileStats path="org/java_websocket/client/WebSocketClient.java" bugCount="0" size="389"/>
+    <FileStats path="org/java_websocket/drafts/Draft.java" bugCount="0" size="152"/>
+    <FileStats path="org/java_websocket/drafts/Draft_6455.java" bugCount="0" size="588"/>
+    <FileStats path="org/java_websocket/enums/CloseHandshakeType.java" bugCount="0" size="11"/>
+    <FileStats path="org/java_websocket/enums/HandshakeState.java" bugCount="0" size="11"/>
+    <FileStats path="org/java_websocket/enums/Opcode.java" bugCount="0" size="14"/>
+    <FileStats path="org/java_websocket/enums/ReadyState.java" bugCount="0" size="12"/>
+    <FileStats path="org/java_websocket/enums/Role.java" bugCount="0" size="10"/>
+    <FileStats path="org/java_websocket/exceptions/IncompleteException.java" bugCount="0" size="9"/>
+    <FileStats path="org/java_websocket/exceptions/IncompleteHandshakeException.java" bugCount="0" size="13"/>
+    <FileStats path="org/java_websocket/exceptions/InvalidDataException.java" bugCount="0" size="21"/>
+    <FileStats path="org/java_websocket/exceptions/InvalidEncodingException.java" bugCount="0" size="10"/>
+    <FileStats path="org/java_websocket/exceptions/InvalidFrameException.java" bugCount="0" size="14"/>
+    <FileStats path="org/java_websocket/exceptions/InvalidHandshakeException.java" bugCount="0" size="14"/>
+    <FileStats path="org/java_websocket/exceptions/LimitExceededException.java" bugCount="0" size="19"/>
+    <FileStats path="org/java_websocket/exceptions/NotSendableException.java" bugCount="0" size="11"/>
+    <FileStats path="org/java_websocket/exceptions/WebsocketNotConnectedException.java" bugCount="0" size="4"/>
+    <FileStats path="org/java_websocket/exceptions/WrappedIOException.java" bugCount="0" size="12"/>
+    <FileStats path="org/java_websocket/extensions/CompressionExtension.java" bugCount="0" size="9"/>
+    <FileStats path="org/java_websocket/extensions/DefaultExtension.java" bugCount="0" size="29"/>
+    <FileStats path="org/java_websocket/extensions/ExtensionRequestData.java" bugCount="0" size="30"/>
+    <FileStats path="org/java_websocket/extensions/IExtension.java" bugCount="0" size="11"/>
+    <FileStats path="org/java_websocket/extensions/permessage_deflate/PerMessageDeflateExtension.java" bugCount="0" size="118"/>
+    <FileStats path="org/java_websocket/framing/BinaryFrame.java" bugCount="0" size="4"/>
+    <FileStats path="org/java_websocket/framing/CloseFrame.java" bugCount="0" size="113"/>
+    <FileStats path="org/java_websocket/framing/ContinuousFrame.java" bugCount="0" size="4"/>
+    <FileStats path="org/java_websocket/framing/ControlFrame.java" bugCount="0" size="14"/>
+    <FileStats path="org/java_websocket/framing/DataFrame.java" bugCount="0" size="6"/>
+    <FileStats path="org/java_websocket/framing/Framedata.java" bugCount="0" size="9"/>
+    <FileStats path="org/java_websocket/framing/FramedataImpl1.java" bugCount="0" size="110"/>
+    <FileStats path="org/java_websocket/framing/PingFrame.java" bugCount="0" size="4"/>
+    <FileStats path="org/java_websocket/framing/PongFrame.java" bugCount="0" size="8"/>
+    <FileStats path="org/java_websocket/framing/TextFrame.java" bugCount="0" size="9"/>
+    <FileStats path="org/java_websocket/handshake/ClientHandshake.java" bugCount="0" size="2"/>
+    <FileStats path="org/java_websocket/handshake/ClientHandshakeBuilder.java" bugCount="0" size="2"/>
+    <FileStats path="org/java_websocket/handshake/HandshakeBuilder.java" bugCount="0" size="3"/>
+    <FileStats path="org/java_websocket/handshake/HandshakeImpl1Client.java" bugCount="0" size="12"/>
+    <FileStats path="org/java_websocket/handshake/HandshakeImpl1Server.java" bugCount="0" size="15"/>
+    <FileStats path="org/java_websocket/handshake/Handshakedata.java" bugCount="0" size="5"/>
+    <FileStats path="org/java_websocket/handshake/HandshakedataImpl1.java" bugCount="0" size="24"/>
+    <FileStats path="org/java_websocket/handshake/ServerHandshake.java" bugCount="0" size="3"/>
+    <FileStats path="org/java_websocket/handshake/ServerHandshakeBuilder.java" bugCount="0" size="3"/>
+    <FileStats path="org/java_websocket/interfaces/ISSLChannel.java" bugCount="0" size="2"/>
+    <FileStats path="org/java_websocket/protocols/IProtocol.java" bugCount="0" size="5"/>
+    <FileStats path="org/java_websocket/protocols/Protocol.java" bugCount="0" size="33"/>
+    <FileStats path="org/java_websocket/server/CustomSSLWebSocketServerFactory.java" bugCount="0" size="19"/>
+    <FileStats path="org/java_websocket/server/DefaultSSLWebSocketServerFactory.java" bugCount="0" size="30"/>
+    <FileStats path="org/java_websocket/server/DefaultWebSocketServerFactory.java" bugCount="0" size="14"/>
+    <FileStats path="org/java_websocket/server/SSLParametersWebSocketServerFactory.java" bugCount="0" size="16"/>
+    <FileStats path="org/java_websocket/server/WebSocketServer.java" bugCount="0" size="502"/>
+    <FileStats path="org/java_websocket/util/Base64.java" bugCount="0" size="228"/>
+    <FileStats path="org/java_websocket/util/ByteBufferUtils.java" bugCount="0" size="18"/>
+    <FileStats path="org/java_websocket/util/Charsetfunctions.java" bugCount="0" size="47"/>
+    <FileStats path="org/java_websocket/util/NamedThreadFactory.java" bugCount="0" size="14"/>
+    <PackageStats package="org.java_websocket" total_bugs="0" total_types="14" total_size="1157">
+      <ClassStats class="org.java_websocket.AbstractWebSocket" sourceFile="AbstractWebSocket.java" interface="false" size="96" bugs="0"/>
+      <ClassStats class="org.java_websocket.AbstractWebSocket$1" sourceFile="AbstractWebSocket.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="org.java_websocket.AbstractWrappedByteChannel" sourceFile="AbstractWrappedByteChannel.java" interface="false" size="35" bugs="0"/>
+      <ClassStats class="org.java_websocket.SSLSocketChannel" sourceFile="SSLSocketChannel.java" interface="false" size="200" bugs="0"/>
+      <ClassStats class="org.java_websocket.SSLSocketChannel$1" sourceFile="SSLSocketChannel.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="org.java_websocket.SSLSocketChannel2" sourceFile="SSLSocketChannel2.java" interface="false" size="237" bugs="0"/>
+      <ClassStats class="org.java_websocket.SocketChannelIOHelper" sourceFile="SocketChannelIOHelper.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="org.java_websocket.WebSocket" sourceFile="WebSocket.java" interface="true" size="26" bugs="0"/>
+      <ClassStats class="org.java_websocket.WebSocketAdapter" sourceFile="WebSocketAdapter.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="org.java_websocket.WebSocketFactory" sourceFile="WebSocketFactory.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="org.java_websocket.WebSocketImpl" sourceFile="WebSocketImpl.java" interface="false" size="451" bugs="0"/>
+      <ClassStats class="org.java_websocket.WebSocketListener" sourceFile="WebSocketListener.java" interface="true" size="17" bugs="0"/>
+      <ClassStats class="org.java_websocket.WebSocketServerFactory" sourceFile="WebSocketServerFactory.java" interface="true" size="5" bugs="0"/>
+      <ClassStats class="org.java_websocket.WrappedByteChannel" sourceFile="WrappedByteChannel.java" interface="true" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.client" total_bugs="0" total_types="4" total_size="391">
+      <ClassStats class="org.java_websocket.client.DnsResolver" sourceFile="DnsResolver.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="org.java_websocket.client.WebSocketClient" sourceFile="WebSocketClient.java" interface="false" size="346" bugs="0"/>
+      <ClassStats class="org.java_websocket.client.WebSocketClient$1" sourceFile="WebSocketClient.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="org.java_websocket.client.WebSocketClient$WebsocketWriteThread" sourceFile="WebSocketClient.java" interface="false" size="37" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.drafts" total_bugs="0" total_types="3" total_size="740">
+      <ClassStats class="org.java_websocket.drafts.Draft" sourceFile="Draft.java" interface="false" size="152" bugs="0"/>
+      <ClassStats class="org.java_websocket.drafts.Draft_6455" sourceFile="Draft_6455.java" interface="false" size="572" bugs="0"/>
+      <ClassStats class="org.java_websocket.drafts.Draft_6455$TranslatedPayloadMetaData" sourceFile="Draft_6455.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.enums" total_bugs="0" total_types="5" total_size="58">
+      <ClassStats class="org.java_websocket.enums.CloseHandshakeType" sourceFile="CloseHandshakeType.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="org.java_websocket.enums.HandshakeState" sourceFile="HandshakeState.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="org.java_websocket.enums.Opcode" sourceFile="Opcode.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="org.java_websocket.enums.ReadyState" sourceFile="ReadyState.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="org.java_websocket.enums.Role" sourceFile="Role.java" interface="false" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.exceptions" total_bugs="0" total_types="10" total_size="127">
+      <ClassStats class="org.java_websocket.exceptions.IncompleteException" sourceFile="IncompleteException.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="org.java_websocket.exceptions.IncompleteHandshakeException" sourceFile="IncompleteHandshakeException.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="org.java_websocket.exceptions.InvalidDataException" sourceFile="InvalidDataException.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="org.java_websocket.exceptions.InvalidEncodingException" sourceFile="InvalidEncodingException.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="org.java_websocket.exceptions.InvalidFrameException" sourceFile="InvalidFrameException.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="org.java_websocket.exceptions.InvalidHandshakeException" sourceFile="InvalidHandshakeException.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="org.java_websocket.exceptions.LimitExceededException" sourceFile="LimitExceededException.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="org.java_websocket.exceptions.NotSendableException" sourceFile="NotSendableException.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="org.java_websocket.exceptions.WebsocketNotConnectedException" sourceFile="WebsocketNotConnectedException.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="org.java_websocket.exceptions.WrappedIOException" sourceFile="WrappedIOException.java" interface="false" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.extensions" total_bugs="0" total_types="4" total_size="79">
+      <ClassStats class="org.java_websocket.extensions.CompressionExtension" sourceFile="CompressionExtension.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="org.java_websocket.extensions.DefaultExtension" sourceFile="DefaultExtension.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="org.java_websocket.extensions.ExtensionRequestData" sourceFile="ExtensionRequestData.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="org.java_websocket.extensions.IExtension" sourceFile="IExtension.java" interface="true" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.extensions.permessage_deflate" total_bugs="0" total_types="1" total_size="118">
+      <ClassStats class="org.java_websocket.extensions.permessage_deflate.PerMessageDeflateExtension" sourceFile="PerMessageDeflateExtension.java" interface="false" size="118" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.framing" total_bugs="0" total_types="11" total_size="281">
+      <ClassStats class="org.java_websocket.framing.BinaryFrame" sourceFile="BinaryFrame.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.CloseFrame" sourceFile="CloseFrame.java" interface="false" size="113" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.ContinuousFrame" sourceFile="ContinuousFrame.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.ControlFrame" sourceFile="ControlFrame.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.DataFrame" sourceFile="DataFrame.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.Framedata" sourceFile="Framedata.java" interface="true" size="9" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.FramedataImpl1" sourceFile="FramedataImpl1.java" interface="false" size="106" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.FramedataImpl1$1" sourceFile="FramedataImpl1.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.PingFrame" sourceFile="PingFrame.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.PongFrame" sourceFile="PongFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="org.java_websocket.framing.TextFrame" sourceFile="TextFrame.java" interface="false" size="9" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.handshake" total_bugs="0" total_types="9" total_size="69">
+      <ClassStats class="org.java_websocket.handshake.ClientHandshake" sourceFile="ClientHandshake.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="org.java_websocket.handshake.ClientHandshakeBuilder" sourceFile="ClientHandshakeBuilder.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="org.java_websocket.handshake.HandshakeBuilder" sourceFile="HandshakeBuilder.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="org.java_websocket.handshake.HandshakeImpl1Client" sourceFile="HandshakeImpl1Client.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="org.java_websocket.handshake.HandshakeImpl1Server" sourceFile="HandshakeImpl1Server.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="org.java_websocket.handshake.Handshakedata" sourceFile="Handshakedata.java" interface="true" size="5" bugs="0"/>
+      <ClassStats class="org.java_websocket.handshake.HandshakedataImpl1" sourceFile="HandshakedataImpl1.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="org.java_websocket.handshake.ServerHandshake" sourceFile="ServerHandshake.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="org.java_websocket.handshake.ServerHandshakeBuilder" sourceFile="ServerHandshakeBuilder.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.interfaces" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="org.java_websocket.interfaces.ISSLChannel" sourceFile="ISSLChannel.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.protocols" total_bugs="0" total_types="2" total_size="38">
+      <ClassStats class="org.java_websocket.protocols.IProtocol" sourceFile="IProtocol.java" interface="true" size="5" bugs="0"/>
+      <ClassStats class="org.java_websocket.protocols.Protocol" sourceFile="Protocol.java" interface="false" size="33" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.server" total_bugs="0" total_types="7" total_size="581">
+      <ClassStats class="org.java_websocket.server.CustomSSLWebSocketServerFactory" sourceFile="CustomSSLWebSocketServerFactory.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="org.java_websocket.server.DefaultSSLWebSocketServerFactory" sourceFile="DefaultSSLWebSocketServerFactory.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="org.java_websocket.server.DefaultWebSocketServerFactory" sourceFile="DefaultWebSocketServerFactory.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="org.java_websocket.server.SSLParametersWebSocketServerFactory" sourceFile="SSLParametersWebSocketServerFactory.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="org.java_websocket.server.WebSocketServer" sourceFile="WebSocketServer.java" interface="false" size="458" bugs="0"/>
+      <ClassStats class="org.java_websocket.server.WebSocketServer$WebSocketWorker" sourceFile="WebSocketServer.java" interface="false" size="36" bugs="0"/>
+      <ClassStats class="org.java_websocket.server.WebSocketServer$WebSocketWorker$1" sourceFile="WebSocketServer.java" interface="false" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.java_websocket.util" total_bugs="0" total_types="5" total_size="307">
+      <ClassStats class="org.java_websocket.util.Base64" sourceFile="Base64.java" interface="false" size="158" bugs="0"/>
+      <ClassStats class="org.java_websocket.util.Base64$OutputStream" sourceFile="Base64.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="org.java_websocket.util.ByteBufferUtils" sourceFile="ByteBufferUtils.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="org.java_websocket.util.Charsetfunctions" sourceFile="Charsetfunctions.java" interface="false" size="47" bugs="0"/>
+      <ClassStats class="org.java_websocket.util.NamedThreadFactory" sourceFile="NamedThreadFactory.java" interface="false" size="14" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="207" invocations="1064" avgMicrosecondsPerInvocation="194" maxMicrosecondsPerInvocation="11846" standardDeviationMicrosecondsPerInvocation="502"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="115" invocations="570" avgMicrosecondsPerInvocation="202" maxMicrosecondsPerInvocation="22178" standardDeviationMicrosecondsPerInvocation="1001"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="102" invocations="607" avgMicrosecondsPerInvocation="169" maxMicrosecondsPerInvocation="5595" standardDeviationMicrosecondsPerInvocation="458"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="99" invocations="245" avgMicrosecondsPerInvocation="406" maxMicrosecondsPerInvocation="7404" standardDeviationMicrosecondsPerInvocation="903"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="97" invocations="570" avgMicrosecondsPerInvocation="171" maxMicrosecondsPerInvocation="7693" standardDeviationMicrosecondsPerInvocation="495"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="94" invocations="596" avgMicrosecondsPerInvocation="157" maxMicrosecondsPerInvocation="4715" standardDeviationMicrosecondsPerInvocation="400"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="93" invocations="565" avgMicrosecondsPerInvocation="165" maxMicrosecondsPerInvocation="3075" standardDeviationMicrosecondsPerInvocation="301"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="87" invocations="1146" avgMicrosecondsPerInvocation="76" maxMicrosecondsPerInvocation="2847" standardDeviationMicrosecondsPerInvocation="173"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="83" invocations="570" avgMicrosecondsPerInvocation="147" maxMicrosecondsPerInvocation="4001" standardDeviationMicrosecondsPerInvocation="342"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="78" invocations="245" avgMicrosecondsPerInvocation="320" maxMicrosecondsPerInvocation="4081" standardDeviationMicrosecondsPerInvocation="583"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="70" invocations="683" avgMicrosecondsPerInvocation="103" maxMicrosecondsPerInvocation="7466" standardDeviationMicrosecondsPerInvocation="334"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="53" invocations="457" avgMicrosecondsPerInvocation="116" maxMicrosecondsPerInvocation="2835" standardDeviationMicrosecondsPerInvocation="247"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="39" invocations="1068" avgMicrosecondsPerInvocation="37" maxMicrosecondsPerInvocation="309" standardDeviationMicrosecondsPerInvocation="23"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="39" invocations="1011" avgMicrosecondsPerInvocation="38" maxMicrosecondsPerInvocation="16777" standardDeviationMicrosecondsPerInvocation="529"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="35" invocations="683" avgMicrosecondsPerInvocation="52" maxMicrosecondsPerInvocation="15835" standardDeviationMicrosecondsPerInvocation="607"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="35" invocations="245" avgMicrosecondsPerInvocation="145" maxMicrosecondsPerInvocation="2470" standardDeviationMicrosecondsPerInvocation="303"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="28" invocations="344" avgMicrosecondsPerInvocation="83" maxMicrosecondsPerInvocation="8942" standardDeviationMicrosecondsPerInvocation="493"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="24" invocations="245" avgMicrosecondsPerInvocation="100" maxMicrosecondsPerInvocation="3429" standardDeviationMicrosecondsPerInvocation="344"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="23" invocations="570" avgMicrosecondsPerInvocation="40" maxMicrosecondsPerInvocation="1866" standardDeviationMicrosecondsPerInvocation="112"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="22" invocations="245" avgMicrosecondsPerInvocation="92" maxMicrosecondsPerInvocation="1621" standardDeviationMicrosecondsPerInvocation="162"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="22" invocations="245" avgMicrosecondsPerInvocation="91" maxMicrosecondsPerInvocation="1402" standardDeviationMicrosecondsPerInvocation="181"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="22" invocations="76" avgMicrosecondsPerInvocation="292" maxMicrosecondsPerInvocation="4545" standardDeviationMicrosecondsPerInvocation="680"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="20" invocations="245" avgMicrosecondsPerInvocation="85" maxMicrosecondsPerInvocation="4943" standardDeviationMicrosecondsPerInvocation="340"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="18" invocations="245" avgMicrosecondsPerInvocation="76" maxMicrosecondsPerInvocation="5922" standardDeviationMicrosecondsPerInvocation="447"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="17" invocations="245" avgMicrosecondsPerInvocation="73" maxMicrosecondsPerInvocation="1317" standardDeviationMicrosecondsPerInvocation="183"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="17" invocations="76" avgMicrosecondsPerInvocation="234" maxMicrosecondsPerInvocation="2073" standardDeviationMicrosecondsPerInvocation="395"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueRangeAnalysisFactory" totalMilliseconds="17" invocations="683" avgMicrosecondsPerInvocation="25" maxMicrosecondsPerInvocation="1777" standardDeviationMicrosecondsPerInvocation="111"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="16" invocations="8999" avgMicrosecondsPerInvocation="1" maxMicrosecondsPerInvocation="859" standardDeviationMicrosecondsPerInvocation="13"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="16" invocations="76" avgMicrosecondsPerInvocation="220" maxMicrosecondsPerInvocation="2488" standardDeviationMicrosecondsPerInvocation="466"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="16" invocations="76" avgMicrosecondsPerInvocation="211" maxMicrosecondsPerInvocation="1572" standardDeviationMicrosecondsPerInvocation="334"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="15" invocations="550" avgMicrosecondsPerInvocation="28" maxMicrosecondsPerInvocation="958" standardDeviationMicrosecondsPerInvocation="76"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindDeadLocalStores" totalMilliseconds="15" invocations="76" avgMicrosecondsPerInvocation="203" maxMicrosecondsPerInvocation="2372" standardDeviationMicrosecondsPerInvocation="393"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.password.ConstantPasswordDetector" totalMilliseconds="15" invocations="76" avgMicrosecondsPerInvocation="201" maxMicrosecondsPerInvocation="3684" standardDeviationMicrosecondsPerInvocation="511"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="14" invocations="245" avgMicrosecondsPerInvocation="60" maxMicrosecondsPerInvocation="1026" standardDeviationMicrosecondsPerInvocation="128"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindBadCast2" totalMilliseconds="14" invocations="76" avgMicrosecondsPerInvocation="187" maxMicrosecondsPerInvocation="5269" standardDeviationMicrosecondsPerInvocation="658"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.obl.ObligationAnalysis" totalMilliseconds="13" invocations="93" avgMicrosecondsPerInvocation="149" maxMicrosecondsPerInvocation="3827" standardDeviationMicrosecondsPerInvocation="434"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="13" invocations="76" avgMicrosecondsPerInvocation="176" maxMicrosecondsPerInvocation="4394" standardDeviationMicrosecondsPerInvocation="526"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="13" invocations="76" avgMicrosecondsPerInvocation="172" maxMicrosecondsPerInvocation="6390" standardDeviationMicrosecondsPerInvocation="775"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindUselessObjects" totalMilliseconds="12" invocations="76" avgMicrosecondsPerInvocation="169" maxMicrosecondsPerInvocation="1774" standardDeviationMicrosecondsPerInvocation="339"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref$CheckCallSitesAndReturnInstructions" totalMilliseconds="12" invocations="565" avgMicrosecondsPerInvocation="22" maxMicrosecondsPerInvocation="423" standardDeviationMicrosecondsPerInvocation="40"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.StreamResourceTracker" totalMilliseconds="11" invocations="17" avgMicrosecondsPerInvocation="675" maxMicrosecondsPerInvocation="2287" standardDeviationMicrosecondsPerInvocation="701"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="11" invocations="245" avgMicrosecondsPerInvocation="46" maxMicrosecondsPerInvocation="1472" standardDeviationMicrosecondsPerInvocation="115"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindPuzzlers" totalMilliseconds="11" invocations="76" avgMicrosecondsPerInvocation="144" maxMicrosecondsPerInvocation="2916" standardDeviationMicrosecondsPerInvocation="386"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
